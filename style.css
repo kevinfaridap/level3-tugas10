@@ -1,0 +1,136 @@
+.navbar a.nav-1{
+    font-family: Viga;
+    font-size: 30px;
+    color: white;    
+  }
+  
+.navbar .navbar-nav{
+    margin-right: 20px;   
+}
+
+.nav-link{
+    margin-right: 40px;
+}
+
+header.utama{
+    background-image: url(img/latar.jpg);
+    /* width: 1366px; */
+    background-size: cover;
+    height: 695px;
+    margin-top: -71px;
+}
+
+.display-4{
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+    font-family: Viga;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 70px;
+}
+
+.lead{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+
+}
+
+.lead-2{
+    text-align: center;
+    color: white;
+    font-size: 30;
+    margin-top: -20px;
+}
+
+header button.btn{
+    /* margin-left: 60px; */
+    width: 100px;
+    /* display: block;
+    margin: auto; */;
+}
+
+header .logo-wa{
+    width: 10%;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
+/* HALAMAN CREATE.php */
+header.main-create{
+    background-image: url(img/latar.jpg);
+    height: 695px;
+}
+
+
+header .kotak-form{
+    margin-top: 100px;
+}
+
+.display-3{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-family: Viga;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+
+/* HALAMAN VIEW.php */
+header.laman-view{
+    background-image: url(img/latar.jpg);
+    height: 695px;
+}
+
+h2.judul-view{
+    color: white;
+    text-align: center;
+    color: white;
+    font-family: Viga;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: -70px;
+}
+
+header h5.isi-produk{
+    color: black;
+    text-align:justify;
+}
+
+header h3.nama-produk{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+header .tombol-view{
+    text-align: center;
+}
+
+
+/* HALAMAN UPDATE */
+header.laman-update{
+    background-image: url(img/latar.jpg);
+    height: 639px;
+    /* margin-top: -56px; */
+    color: white;
+}
+
+header h1.judul-update{
+    margin-top: 150px;
+}
+
+nav a.nav-link {
+    color: white;
+}
+
